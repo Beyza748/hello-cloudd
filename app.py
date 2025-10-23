@@ -1,4 +1,4 @@
-from flak import Flask
+from flask import Flask
 ask = Flask(__name__)
 
 @app.route('/')
